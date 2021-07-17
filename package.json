@@ -1,0 +1,27 @@
+{
+  "name": "Discord Together",
+  "version": "1.0.0",
+  "description": "discord vc play YouTube,game,other",
+  "main": "index.js",
+  "dependencies": {
+    "discord-together": "^1.1.11",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeZilla/Discord-Together-Bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "MoeZilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moezilla/Discord-Together-Bot/issues"
+  },
+  "homepage": "https://github.com/Moezilla/Discord-Together-Bot#readme"
+}
